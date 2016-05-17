@@ -1,3 +1,3 @@
 # Salesman-GreedyApproach
 
-Türkçe anlatım : http://blog.graylightsoft.com/ac-gozlu-algoritma-ile-seyyar-satici-problemi-cozumu-9e8cdd43c41d5964.html
+Türkçe anlatım : http://blog.graylightsoft.com/ac-gozlu-algoritma-ile-en-kisa-yolu-bulma-1c5f64f4ae141fd3.html
